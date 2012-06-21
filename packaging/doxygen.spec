@@ -6,7 +6,7 @@ License:        GPLv2+
 Group:          Development/Tools
 Summary:        Automated C, C++, and Java Documentation Generator
 Url:            http://www.stack.nl/~dimitri/doxygen/
-Source:         http://ftp.stack.nl/pub/users/dimitri/doxygen-%{version}.src.tar.gz
+Source:         http://ftp.stack.nl/pub/users/dimitri/doxygen-%{version}.tar.gz
 Source1001: packaging/doxygen.manifest 
 Patch0:         doxygen-1.7.1-config.patch
 BuildRequires: gettext-tools
