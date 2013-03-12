@@ -1,0 +1,11 @@
+* Thu Jun 21 2012 Anas Nashif <anas.nashif@intel.com> 73c4132
+- change tarball name to make gbs work
+
+* Wed May 30 2012 Ryan Ware <ryan.r.ware@intel.com> b141332
+- Add default Smack manifest for doxygen.spec
+
+* Mon May 21 2012 Kim Kibum <kb0929.kim@samsung.com> e28059a
+- Upload Tizen:Base source
+[ Hyesook Choi ]
+- Initial empty repository
+
