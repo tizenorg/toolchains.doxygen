@@ -1,0 +1,17 @@
+* Mon May 30 2011 Carsten Munk <carsten@maemo.org> - 1.7.4
+- Drop doxygen-1.5.9-arm.patch - no longer needed and it 
+  broke ARM builds with 1.7.4.
+
+* Sun May 08 2011 Anas Nashif <anas.nashif@intel.com> - 1.7.4
+- Update to 1.7.4
+
+* Sat Jan 30 2010 Anas Nashif <anas.nashif@intel.com> - 1.6.2
+- Update to 1.6.2
+- Do not write timestamps all over the place, enable via new option
+
+* Tue Feb 17 2009 Anas Nashif <anas.nashif@intel.com> 1.5.8
+- Update to version 1.5.8
+
+* Sat Dec 20 2008 Anas Nashif <anas.nashif@intel.com> 1.5.7.1
+- Initial import into Moblin
+
