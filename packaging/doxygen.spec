@@ -42,3 +42,4 @@ rm -rf  %{buildroot}
 %attr(444,root,root) %doc %{_mandir}/man1/doxygen.1.*
 %attr(444,root,root) %doc %{_mandir}/man1/doxytag.1.*
 %attr(755,root,root) /usr/bin/*
+
